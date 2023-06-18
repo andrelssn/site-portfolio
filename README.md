@@ -61,3 +61,9 @@ function showName(nome){
     <span>Curso Git</span>
 </h1>
 ```
+
+Propriedade | Descrição
+----------- | -----------
+name | Para informar o nome do usuario
+size | Definir o tamanho do campo
+background | Cor de fundo da area em HEX
