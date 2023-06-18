@@ -19,4 +19,4 @@ _Entendendo oque é **Git**, aprendendo sobre **repositórios**_.
 ###### Titulo <h6>
 
 ### Rede Social:
-[Instagram](https://instagram.com)
+[**Instagram**](https://instagram.com)
