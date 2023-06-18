@@ -35,3 +35,24 @@ Nesse curso você vai dominar todo o **git** e **github** nivel _profissional_.
 >Este é um blockcode usado para destacar alguma área.
 
 >Segunda área destacada.
+
+**Comando para rodar o projeto**
+
+```
+npm start
+```
+
+**Exemplo de uso do script**
+```js
+function showName(nome){
+    return 'Bem-Vindo' + name;
+}
+```
+
+**Uso do componente HTML**
+```html
+<h1>
+    Titulo do projeto
+    <span>Curso Git</span>
+</h1>
+```
