@@ -30,3 +30,8 @@ Nesse curso você vai dominar todo o **git** e **github** nivel _profissional_.
 
 ### Rede Social:
 [**Instagram**](https://instagram.com)
+
+
+>Este é um blockcode usado para destacar alguma área.
+
+>Segunda área destacada.
